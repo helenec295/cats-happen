@@ -1,0 +1,145 @@
+.app {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Nunito Sans', sans-serif;
+  
+  
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  color: #212427;
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+  
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 4.5rem;
+  
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.2rem;
+  
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.4rem;
+  
+  text-transform: uppercase;  
+}
+
+h4 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  
+}
+
+p {
+  font-size: 1.6rem;
+  line-height: 2.6rem;
+  font-weight: 300;
+}
+
+label {
+  font-size: 1.6rem;
+  line-height: 2.6rem;
+  font-weight: 300;
+  display: flex;
+  flex-direction: column;
+}
+
+
+button {
+  padding: 12px 25px;
+  margin: 0;
+  color: white;
+  background-color: #EFC050;
+  border: 1px solid #EFC050;
+  border-radius: 5px;
+  font-size: 1.6rem;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0.1rem;
+  transition-property: background-color, color;
+  text-transform: uppercase;
+  box-shadow: 7px 6px 12px 1px rgba(0, 0, 0, 0.1); 
+  cursor: pointer;
+  
+  transition-property: box-shadow, transform;
+
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+button:active
+  {
+  transform: scale(0.98);
+  box-shadow: 3px 2px 6px 1px rgba(0, 0, 0, 0.24);
+}
+
+
+a {
+  text-decoration: none;
+  font-size: 1.6rem;
+  
+}
+
+
+input {
+  border: 1px solid lightgray;
+  box-shadow: 
+  inset 0 1px 2px rgba(0,0,0,0.25);
+  /* inset 0 1px 2px rgba(0,0,0,0.2), 
+  0 -1px 1px #FFF, 
+  0 1px 0 #FFF; */
+  background-color: white;
+  border-radius: 5px;
+  font-size: 1.6rem;
+  outline: none;
+  padding: 12px 25px;
+  margin-top: 20px;
+  
+}
+
+hr {
+  width: 150px;
+  /* height: 2px; */
+  /* border: 2px solid #EFC050; */
+  height: 2px;
+  border: none;
+  background: -webkit-gradient(linear, 0 0, 100% 0, from(transparent), to(transparent), color-stop(50%, #EFC050));
+  
+}
+
+.about {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 30px;
+}
+
+.about p {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 30px;
+}
+
+
+
+

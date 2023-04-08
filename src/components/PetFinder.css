@@ -1,0 +1,18 @@
+.pet-finder {
+    width: 100%;
+    min-height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 0;
+  }
+
+/* Style for the form */
+.pet-finder form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+  
