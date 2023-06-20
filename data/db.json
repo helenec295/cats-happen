@@ -1,0 +1,23 @@
+{
+    "animals": [
+        {
+            "id": 1,
+            "url": "https://www.petfinder.com/dog/spot-120/nj/jersey-city/nj333-petfinder-test-account/?referrer_id=d7e3700b-2e07-11e9-b3f3-0800275f82b1",
+            "type": "Cat",
+            "species": "Dog",
+            "name": "Spot",
+            "description": "Spot is an amazing cat",
+            "photos": [
+                {
+                    "small": "https://photos.petfinder.com/photos/pets/42706540/1/?bust=1546042081&width=100",
+                    "medium": "https://photos.petfinder.com/photos/pets/42706540/1/?bust=1546042081&width=300",
+                    "large": "https://photos.petfinder.com/photos/pets/42706540/1/?bust=1546042081&width=600",
+                    "full": "https://photos.petfinder.com/photos/pets/42706540/1/?bust=1546042081"
+                }
+            ],
+            "status": "adoptable",
+            "published_at": "2018-12-22T20:31:32+0000"
+            
+        }
+    ]
+}

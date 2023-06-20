@@ -1,6 +1,6 @@
 import "./Header.css"
 import React from 'react'
-import Cat from '../images/cat.jpg';
+import Cat from '../images/cat1.jpg';
 
 function Header() {
   return (
