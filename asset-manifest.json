@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cats-happen/static/css/main.440e412f.css",
+    "main.js": "/cats-happen/static/js/main.8adb1238.js",
+    "static/js/787.d78b1935.chunk.js": "/cats-happen/static/js/787.d78b1935.chunk.js",
+    "static/media/cat1.jpg": "/cats-happen/static/media/cat1.c2f4dd7a3e9e427c918d.jpg",
+    "index.html": "/cats-happen/index.html",
+    "main.440e412f.css.map": "/cats-happen/static/css/main.440e412f.css.map",
+    "main.8adb1238.js.map": "/cats-happen/static/js/main.8adb1238.js.map",
+    "787.d78b1935.chunk.js.map": "/cats-happen/static/js/787.d78b1935.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.440e412f.css",
+    "static/js/main.8adb1238.js"
+  ]
+}
